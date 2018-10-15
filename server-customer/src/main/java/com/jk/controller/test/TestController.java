@@ -1,4 +1,4 @@
-package com.jk.controller;
+package com.jk.controller.test;
 
 import com.jk.service.test.TestService;
 import org.springframework.web.bind.annotation.RestController;
