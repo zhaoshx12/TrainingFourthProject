@@ -14,6 +14,7 @@
         <module>server-common</module>
         <module>server-client</module>
         <module>server-feign</module>
+        <module>server-eureka</module>
     </modules>
 
 </project>
