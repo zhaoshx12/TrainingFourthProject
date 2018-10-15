@@ -9,5 +9,11 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>server-api</module>
+        <module>server-common</module>
+        <module>server-client</module>
+        <module>server-feign</module>
+    </modules>
 
 </project>
